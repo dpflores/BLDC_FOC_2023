@@ -5,4 +5,4 @@ Para poder programar el simpleFOC STM32 bluepill se necesita:
 - Instalar STM32 MCU based boards en `boards manager` de arduino
 - Instalar SimpleFOC en el `library manager` de arduino
 - Seleccionar `Generic STM32F1 series` como board
-- Seleccionar `Bluepill F103C8` en `Board part number`
+- Seleccionar `Bluepill F103C8` como board part number
